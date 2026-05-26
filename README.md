@@ -119,8 +119,10 @@ UserServiceTest       23 tests  ✓
 WisataServiceTest     20 tests  ✓
 ReviewServiceTest     18 tests  ✓
 
-Total: 61 assertions — OK (56 tests)
+Total: 64 tests, 149 assertions — OK (64 tests)
 ```
+
+![Hasil Unit Test](docs/phpunit-result.png)
 
 ---
 
